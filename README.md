@@ -1,7 +1,7 @@
 # Best international feature film
 Idea: Julia Merk
 
-Analysis, Visualisation: Julia Merk, Kira Schacht
+Analysis, Visualisation: Julia Merk
 
 Writing: Julia Merk
 
