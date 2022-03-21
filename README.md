@@ -10,7 +10,6 @@ Editing: Rayna Breuer, Gianna-Carina Gruen
 You can read the story here in English (LINK) and German (LINK)
 
 # Data Sources
-The winners of the Oscars category "best international movie" are mainly European.
 
 Data retrieved from [the Official Academy Awards Database](https://awardsdatabase.oscars.org)
 
