@@ -7,7 +7,7 @@ Writing: Julia Merk
 
 Editing: Rayna Breuer, Gianna-Carina Gruen
 
-You can read the story here in English (LINK) and German (LINK)
+You can read the story here in [English](https://www.dw.com/en/oscars-where-are-the-african-films/a-61187154), [Spanish](https://www.dw.com/es/áfrica-pasa-desapercibida-para-los-oscar-de-hollywood/a-61238069), [French](https://www.dw.com/fr/cinéma-lafrique-peine-à-simposer-à-linternational/a-61264837 ) and [German](https://www.dw.com/de/oscars-2022-bester-internationaler-film-afrika/a-61092690)
 
 # Data Sources
 
